@@ -1,0 +1,1 @@
+export const PROXY_URL = process.env.REACT_APP_PROXY_URL || "http://127.0.0.1:7090"
